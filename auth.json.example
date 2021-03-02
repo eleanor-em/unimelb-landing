@@ -1,0 +1,4 @@
+{
+    "discord_token": "foo",
+    "sendgrid_token": "bar"
+}

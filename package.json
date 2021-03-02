@@ -1,0 +1,11 @@
+{
+    "name": "unimelb-landing",
+    "version": "1.0.0",
+    "description": "Verify that a user belongs to Unimelb before allowing them in.",
+    "main": "bot.js",
+    "author": "Eleanor McMurtry",
+    "dependencies": {
+        "@sendgrid/mail": "^7.2.1",
+        "discord.js": "^12.2.0"
+    }
+}
